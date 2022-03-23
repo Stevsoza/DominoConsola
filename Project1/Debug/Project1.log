@@ -1,0 +1,2 @@
+﻿  domino.cpp
+H:\Visual\VC\Tools\MSVC\14.29.30133\include\cstdlib(12,10): fatal error C1083: No se puede abrir el archivo incluir: 'math.h': No such file or directory
