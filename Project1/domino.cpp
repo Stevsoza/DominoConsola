@@ -1,4 +1,3 @@
-#include "struct.h"
 #include "funciones.h"
 
 int main()
